@@ -85,14 +85,6 @@ class Database {
 				//console.log('Number: ', r);
 				//console.log("Status: ", status);
 				numbers.push([fullNumber, status]);
-				if (this.dbName === '153') {
-					console.log({
-						endian,
-						r,
-						fullNumber,
-						status
-					});
-				}
 				if (!this.statusMap[status]) {
 					//console.log("Unknown status: ", status, fullNumber, this.dbName, r);
 				}
