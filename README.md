@@ -1,5 +1,5 @@
 # callfilter-decoder
-Simple script to decrypt callfiler.app database
+Simple script to decrypt [callfilter.app](https://callfilter.app) database
 
 It's just reverse engineering an android app. Made for educational purposes only.
 
